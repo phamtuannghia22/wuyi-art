@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/wuyi-art/static/css/main.55870dfc.chunk.css",
+    "main.js": "/wuyi-art/static/js/main.86099ada.chunk.js",
+    "main.js.map": "/wuyi-art/static/js/main.86099ada.chunk.js.map",
+    "runtime-main.js": "/wuyi-art/static/js/runtime-main.2a7ded37.js",
+    "runtime-main.js.map": "/wuyi-art/static/js/runtime-main.2a7ded37.js.map",
+    "static/css/2.ed4c6d48.chunk.css": "/wuyi-art/static/css/2.ed4c6d48.chunk.css",
+    "static/js/2.1369a36e.chunk.js": "/wuyi-art/static/js/2.1369a36e.chunk.js",
+    "static/js/2.1369a36e.chunk.js.map": "/wuyi-art/static/js/2.1369a36e.chunk.js.map",
+    "static/js/3.82faa464.chunk.js": "/wuyi-art/static/js/3.82faa464.chunk.js",
+    "static/js/3.82faa464.chunk.js.map": "/wuyi-art/static/js/3.82faa464.chunk.js.map",
+    "index.html": "/wuyi-art/index.html",
+    "static/css/2.ed4c6d48.chunk.css.map": "/wuyi-art/static/css/2.ed4c6d48.chunk.css.map",
+    "static/css/main.55870dfc.chunk.css.map": "/wuyi-art/static/css/main.55870dfc.chunk.css.map",
+    "static/js/2.1369a36e.chunk.js.LICENSE.txt": "/wuyi-art/static/js/2.1369a36e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/wuyi-art/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/img1-1.d56c5af4.jpg": "/wuyi-art/static/media/img1-1.d56c5af4.jpg",
+    "static/media/img1.b02d151a.jpg": "/wuyi-art/static/media/img1.b02d151a.jpg",
+    "static/media/img2-1.c325527d.jpg": "/wuyi-art/static/media/img2-1.c325527d.jpg",
+    "static/media/img2.97238215.jpg": "/wuyi-art/static/media/img2.97238215.jpg",
+    "static/media/img3-1.27751668.jpg": "/wuyi-art/static/media/img3-1.27751668.jpg",
+    "static/media/img3.a77811f2.jpg": "/wuyi-art/static/media/img3.a77811f2.jpg",
+    "static/media/img4-1.d991a393.jpg": "/wuyi-art/static/media/img4-1.d991a393.jpg",
+    "static/media/img4.32bcc036.jpg": "/wuyi-art/static/media/img4.32bcc036.jpg",
+    "static/media/img5-1.9b2cd3a2.jpg": "/wuyi-art/static/media/img5-1.9b2cd3a2.jpg",
+    "static/media/img5.4738d126.jpg": "/wuyi-art/static/media/img5.4738d126.jpg",
+    "static/media/img6-1.779aa061.jpg": "/wuyi-art/static/media/img6-1.779aa061.jpg",
+    "static/media/img6.4192156c.jpg": "/wuyi-art/static/media/img6.4192156c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a7ded37.js",
+    "static/css/2.ed4c6d48.chunk.css",
+    "static/js/2.1369a36e.chunk.js",
+    "static/css/main.55870dfc.chunk.css",
+    "static/js/main.86099ada.chunk.js"
+  ]
+}
